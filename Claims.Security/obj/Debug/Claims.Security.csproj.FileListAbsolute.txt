@@ -1,0 +1,5 @@
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\Claims.Security\bin\Debug\Claims.Security.dll
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\Claims.Security\bin\Debug\Claims.Security.pdb
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\Claims.Security\obj\Debug\Claims.Security.dll
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\Claims.Security\obj\Debug\Claims.Security.pdb
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\Claims.Security\obj\Debug\Claims.Security.csprojResolveAssemblyReference.cache

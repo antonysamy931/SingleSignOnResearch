@@ -1,0 +1,6 @@
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\bin\Debug\CatchBreak.exe.config
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\bin\Debug\CatchBreak.exe
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\bin\Debug\CatchBreak.pdb
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\obj\Debug\CatchBreak.csprojResolveAssemblyReference.cache
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\obj\Debug\CatchBreak.exe
+C:\Users\andrews_m\Documents\Visual Studio 2012\Projects\SingleSignOnImplementation\CatchBreak\obj\Debug\CatchBreak.pdb

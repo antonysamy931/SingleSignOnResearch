@@ -1,0 +1,30 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm(new { returnUrl = ViewBag.ReturnUrl }))
+        {
+            @Html.ValidationSummary()
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                @Html.Label("Username")
+                @Html.Editor("UserName")
+            </div>
+            <div class="form-group">
+                @Html.LabelForModel("Password")
+                @Html.Password("Password")
+            </div>
+            <input class="btn btn-primary" type="submit" value="Login" />
+        }
+    </div>
+</body>
+</html>
